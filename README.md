@@ -2,7 +2,7 @@
 
 ## 💻 Desenvolvedor Full Stack
 
-Me chamo Victor Lima, tenho 31 anos e sou natural de Belém, PA - Brasil. Sou formado em Análise e Desenvolvimento de Sistemas e Pós graduado em Desenvolvimento Full Stack Web e Cloud Computing. Atualmente, sou Desenvolvedor Fullstack, lidando com aplicações em React.js, Next.js, Node.js, MongoDB, MySQL e outras tecnologias. Sou apaixonado por tecnologia e compartilho meu conhecimento através dos meus projetos.
+Me chamo Victor Lima, tenho 32 anos e sou natural de Belém, PA - Brasil. Sou formado em Análise e Desenvolvimento de Sistemas e Pós graduado em Desenvolvimento Full Stack e Cloud Computing. Atualmente, sou Desenvolvedor Fullstack, lidando com aplicações em React.js, Next.js, Node.js, MongoDB, MySQL e outras tecnologias. Sou apaixonado por tecnologia e compartilho meu conhecimento através dos meus projetos.
 
 ## 🚀 Linguagens e Tecnologias
 
